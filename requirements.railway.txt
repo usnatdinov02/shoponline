@@ -1,0 +1,23 @@
+# Django Core
+Django==5.2.7
+
+# Production Server
+gunicorn==21.2.0
+
+# Static Files
+whitenoise==6.6.0
+
+# PostgreSQL Database
+psycopg2-binary==2.9.9
+
+# Environment Variables
+python-decouple==3.8
+
+# Image Processing
+Pillow==10.1.0
+
+# Additional packages (agar kerak bo'lsa)
+# django-cors-headers==4.3.1
+# djangorestframework==3.14.0
+# celery==5.3.4
+# redis==5.0.1

@@ -1,1 +1,1 @@
-web: gunicorn "dars_project.2.wsgi"
+web: gunicorn setting.wsgi --log-file -
