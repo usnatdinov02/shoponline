@@ -1,4 +1,4 @@
-# 🚗 Mercedes-Benz Online Shop
+# online shop
 
 Professional e-commerce sayt Mercedes-Benz avtomobillari uchun.
 
